@@ -1,0 +1,6 @@
+A:
+first和last的值都为k
+B：
+x和y相等，因此结果为0
+C：
+first<last

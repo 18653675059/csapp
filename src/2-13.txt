@@ -1,0 +1,3 @@
+bis(x,y);
+
+bis(bic(x,y), bic(y,x))
